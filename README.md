@@ -30,13 +30,6 @@ Currently focused on strengthening frontend fundamentals and understanding backe
 
 ---
 
-## 📌 Current Goals
-- Build and publish 2–3 complete beginner-friendly full-stack projects
-- Strengthen understanding of backend fundamentals and APIs
-- Write clean, readable code with consistent commits
-
----
-
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=smriti51818&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=smriti51818&layout=compact&theme=radical)
