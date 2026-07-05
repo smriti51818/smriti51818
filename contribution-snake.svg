@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="760" height="260" viewBox="0 0 760 260" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Contribution snake">
+  <title>Contribution snake</title>
+  <rect width="760" height="260" rx="16" ry="16" fill="#0D1117" />
+  <defs>
+    <linearGradient id="snakeGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#38BDF8" />
+      <stop offset="100%" stop-color="#7C3AED" />
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="6" result="coloredBlur" />
+      <feMerge>
+        <feMergeNode in="coloredBlur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+  <g fill="#111827" opacity="0.95">
+    <rect x="40" y="40" width="36" height="36" rx="8" />
+    <rect x="84" y="40" width="36" height="36" rx="8" />
+    <rect x="128" y="40" width="36" height="36" rx="8" />
+    <rect x="172" y="40" width="36" height="36" rx="8" />
+    <rect x="216" y="40" width="36" height="36" rx="8" />
+    <rect x="260" y="40" width="36" height="36" rx="8" />
+    <rect x="304" y="40" width="36" height="36" rx="8" />
+    <rect x="40" y="84" width="36" height="36" rx="8" />
+    <rect x="84" y="84" width="36" height="36" rx="8" />
+    <rect x="128" y="84" width="36" height="36" rx="8" />
+    <rect x="172" y="84" width="36" height="36" rx="8" />
+    <rect x="216" y="84" width="36" height="36" rx="8" />
+    <rect x="260" y="84" width="36" height="36" rx="8" />
+    <rect x="304" y="84" width="36" height="36" rx="8" />
+    <rect x="40" y="128" width="36" height="36" rx="8" />
+    <rect x="84" y="128" width="36" height="36" rx="8" />
+    <rect x="128" y="128" width="36" height="36" rx="8" />
+    <rect x="172" y="128" width="36" height="36" rx="8" />
+    <rect x="216" y="128" width="36" height="36" rx="8" />
+    <rect x="260" y="128" width="36" height="36" rx="8" />
+    <rect x="304" y="128" width="36" height="36" rx="8" />
+    <rect x="40" y="172" width="36" height="36" rx="8" />
+    <rect x="84" y="172" width="36" height="36" rx="8" />
+    <rect x="128" y="172" width="36" height="36" rx="8" />
+    <rect x="172" y="172" width="36" height="36" rx="8" />
+    <rect x="216" y="172" width="36" height="36" rx="8" />
+    <rect x="260" y="172" width="36" height="36" rx="8" />
+    <rect x="304" y="172" width="36" height="36" rx="8" />
+  </g>
+  <g filter="url(#glow)">
+    <circle cx="70" cy="70" r="16" fill="url(#snakeGradient)" />
+    <circle cx="114" cy="70" r="14" fill="#60A5FA" />
+    <circle cx="158" cy="70" r="12" fill="#A855F7" />
+    <circle cx="202" cy="70" r="12" fill="#60A5FA" />
+    <circle cx="246" cy="70" r="14" fill="#7C3AED" />
+    <circle cx="290" cy="70" r="16" fill="#38BDF8" />
+    <circle cx="290" cy="114" r="16" fill="#60A5FA" />
+    <circle cx="246" cy="114" r="14" fill="#7C3AED" />
+    <circle cx="202" cy="114" r="12" fill="#38BDF8" />
+    <circle cx="158" cy="114" r="12" fill="#60A5FA" />
+    <circle cx="114" cy="114" r="14" fill="#7C3AED" />
+    <circle cx="70" cy="114" r="16" fill="#38BDF8" />
+    <circle cx="70" cy="158" r="16" fill="#60A5FA" />
+    <circle cx="114" cy="158" r="14" fill="#7C3AED" />
+    <circle cx="158" cy="158" r="12" fill="#38BDF8" />
+    <circle cx="202" cy="158" r="12" fill="#60A5FA" />
+    <circle cx="246" cy="158" r="14" fill="#7C3AED" />
+    <circle cx="290" cy="158" r="16" fill="#38BDF8" />
+  </g>
+  <text x="380" y="68" fill="#E2E8F0" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="20" font-weight="600">Contribution Snake</text>
+  <text x="380" y="100" fill="#94A3B8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14">Dark-themed GitHub contributions animation preview</text>
+</svg>

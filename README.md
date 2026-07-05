@@ -102,11 +102,17 @@ CampusPapers is a platform that lets students upload, browse, and discover past-
 
 **Stack:** React, Node.js, Express, MongoDB, Cloudinary, Gemini
 
-## Contribution Snake
+## Contributions
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/smriti51818/smriti51818/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=smriti51818&theme=github-dark&bg_color=0D1117&area=true&hide_border=true" alt="Contribution graph" />
 </p>
+
+<p align="center">
+  <img src="./contribution-snake.svg" alt="Contribution snake" />
+</p>
+
+> The contribution snake is generated automatically by GitHub Actions and published from the `output` branch.
 
 ## GitHub Analytics
 
