@@ -1,102 +1,124 @@
-<!-- Typing SVG Banner -->
-![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&size=26&duration=2800&pause=1000&color=36BCF7&width=700&lines=Hi+I+am+Smriti;Computer+Science+Student;Web+and+Mobile+App+Developer)
+<div align="center">
 
-# Hi, I’m Smriti 👋
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=34&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=1000&lines=Hey%2C+I'm+Smriti;Computer+Science+Student;Full-Stack+Developer+%7C+AI+Builder;Building+tech+that+creates+real-world+impact" alt="Typing SVG" />
 
-Computer Science student focused on **building full-stack web applications and mobile apps** through practical projects.  
-Experienced in developing scalable applications using **MERN stack technologies, REST APIs, and Android/Flutter development**, with an emphasis on clean architecture and problem-solving.
+<br/>
 
----
+<p>
+  <img src="https://img.shields.io/badge/Full--Stack%20Developer-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI%20Builder-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Computer%20Science%20Student-111827?style=for-the-badge" />
+</p>
 
-## 🚀 Featured Projects
+</div>
 
-### 📚 Campus Papers
-Full-stack academic resource platform for students to upload, search, and share past years' question papers.
+## About Me
 
-**Tech Stack:**  
-React.js • Node.js • Express.js • MongoDB • JWT • Cloudinary  
+I’m a **Computer Science student** who enjoys building **full-stack applications** and experimenting with **AI systems** that solve practical, real-world problems.
 
-**Key Features**
-- Secure authentication using JWT  
-- Resource upload and search by subject and semester  
-- Cloud-based file storage integration  
-- Leaderboard system to increase engagement  
+I like working across the stack — from **frontend interfaces** and **backend systems** to **databases, APIs, deployment, and AI integrations**. I’m especially interested in building software that is not just technically interesting, but also genuinely useful.
 
-🔗 Live Demo: https://campuspapers.vercel.app
+## Tech Stack
 
----
+### Languages
+<p>
+  <img src="https://img.shields.io/badge/C++-111827?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/C-111827?style=for-the-badge&logo=c&logoColor=white" />
+</p>
 
-### 📝 Timeline – Digital Journal Platform
-A web application designed to store and organize personal journal entries with multimedia support.
+### Frontend
+<p>
+  <img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+</p>
 
-**Tech Stack:**  
-Next.js • Express.js • Azure Cosmos DB • Azure Blob Storage  
+### Backend
+<p>
+  <img src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=nodedotjs&logoColor=83CD29" />
+  <img src="https://img.shields.io/badge/Express.js-111827?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-111827?style=for-the-badge&logo=fastapi&logoColor=00C7B7" />
+</p>
 
-**Key Features**
-- Support for text, image, and audio journal entries  
-- Scalable backend APIs for media uploads  
-- Cloud-based storage for multimedia data  
-- Structured data management and search functionality  
+### Database & Cloud
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-111827?style=for-the-badge&logo=mongodb&logoColor=47A248" />
+  <img src="https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=336791" />
+  <img src="https://img.shields.io/badge/AWS-111827?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
+  <img src="https://img.shields.io/badge/Azure-111827?style=for-the-badge&logo=microsoftazure&logoColor=0078D4" />
+</p>
 
-🔗 Live Demo: https://cloud-timeline-omega.vercel.app
+### AI / ML / Tools
+<p>
+  <img src="https://img.shields.io/badge/LangChain-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/HuggingFace-111827?style=for-the-badge&logo=huggingface&logoColor=FFD21E" />
+  <img src="https://img.shields.io/badge/scikit--learn-111827?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" />
+  <img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cursor-111827?style=for-the-badge" />
+</p>
 
----
+## Featured Projects
 
-### 🥕 Revivo
-Mobile application connecting hotel owners with vegetable vendors to sell near-expiry produce at discounted prices to avoid wastage.
+### [SupplySense](https://github.com/smriti51818/Supply-Sense-Cognizant)
+**AI-powered supply chain risk intelligence platform**
 
-**Tech Stack:**  
-Java • Android Studio  
+SupplySense is a full-stack platform built to help retail teams detect supplier risk early, forecast stockouts, estimate financial exposure, and plan mitigation strategies before disruptions turn into real losses.
 
-**Key Features**
-- Marketplace-style interaction between sellers and buyers  
-- Focus on reducing food waste through efficient distribution  
-- Mobile-first interface for quick transactions  
+- Built a supplier risk intelligence system for disruption scoring, stockout forecasting, and mitigation planning
+- Developed a React + FastAPI dashboard for tracking supplier risks and operational exposure
+- Integrated AI-powered advisory workflows for action cards, executive briefings, and scenario planning
 
----
+**Stack:** React, FastAPI, PostgreSQL, AWS Bedrock, LangGraph
 
-### 📱 Campus Lost & Found
-Mobile application for reporting and recovering lost items within campus communities.
+### [RoadSoS / Neura](https://github.com/smriti51818/RoadSOS_Neura)
+**Offline-first emergency response and road safety platform**
 
-**Tech Stack:**  
-Flutter • Dart  
+RoadSoS is an emergency response system designed to help accident victims and bystanders quickly access support, emergency resources, and guidance — even in low-connectivity situations.
 
-**Key Features**
-- Post and search lost items  
-- User authentication and listing system  
-- Designed for efficient campus communication
+- Built an offline-first emergency response platform with SOS workflows and emergency triage
+- Added AI-assisted first-aid guidance and geo-ranked emergency service discovery
+- Designed mobile + web workflows for tracking, dispatch, and safety-focused emergency support
 
----
+**Stack:** Flutter, FastAPI, Next.js, PostgreSQL, SQLite, Gemini
 
-## 🛠 Technical Skills
+### [CampusPapers](https://github.com/smriti51818/campus-papers)
+**AI-powered academic question paper repository**
 
-**Languages**  
-Java • Python • C • JavaScript • Dart • SQL  
+CampusPapers is a platform that lets students upload, browse, and discover past-year exam papers with admin moderation, AI authenticity checks, and gamified contribution features.
 
-**Web Development**  
-React.js • Next.js • Node.js • Express.js • MongoDB • REST APIs  
+- Built a full-stack academic resource platform for uploading, filtering, and downloading past-year papers
+- Added JWT authentication, admin moderation, badges, and leaderboard systems
+- Integrated AI-based authenticity scoring for uploaded academic content
 
-**Mobile Development**  
-Android Development (Java) • Flutter  
+**Stack:** React, Node.js, Express, MongoDB, Cloudinary, Gemini
 
-**Databases**  
-MongoDB • Azure Cosmos DB • SQL  
+## GitHub Analytics
 
-**Cloud & Deployment**  
-Azure • AWS Fundamentals • Vercel  
+<div align="center">
 
-**Developer Tools**  
-Git • GitHub • VS Code • Android Studio
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=smriti51818&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img height="170" src="https://streak-stats.demolab.com?user=smriti51818&theme=tokyonight&hide_border=true" />
 
----
+</div>
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=smriti51818&show_icons=true&theme=radical)
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smriti51818&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=smriti51818&layout=compact&theme=radical)
+## Connect With Me
 
----
-
-## 🌐 Connect
-- **LinkedIn:** https://www.linkedin.com/in/smriti-t-m-66b051363/
-- **Email:** smriti51818@gmail.com
+<p>
+  <a href="https://www.linkedin.com/in/smriti-t-m-66b051363/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:smriti51818@gmail.com">
+    <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/smriti51818">
+    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
