@@ -80,7 +80,7 @@ SupplySense is a full-stack platform built to help retail teams detect supplier 
 
 **Stack:** React, FastAPI, PostgreSQL, AWS Bedrock, LangGraph
 
-### [RoadSoS / Neura](https://github.com/smriti51818/RoadSOS_Neura)
+### [RoadSoS](https://github.com/smriti51818/RoadSOS_Neura)
 **Offline-first emergency response and road safety platform**
 
 RoadSoS is an emergency response system designed to help accident victims and bystanders quickly access support, emergency resources, and guidance — even in low-connectivity situations.
