@@ -108,23 +108,12 @@ CampusPapers is a platform that lets students upload, browse, and discover past-
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=smriti51818&theme=github-dark&bg_color=0D1117&area=true&hide_border=true" alt="Contribution graph" />
 </p>
 
-<p align="center">
-  <img src="./contribution-snake.svg" alt="Contribution snake" />
-</p>
-
-> The contribution snake is generated automatically by GitHub Actions and published from the `output` branch.
-
 ## GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=smriti51818&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 <img height="170" src="https://streak-stats.demolab.com?user=smriti51818&theme=tokyonight&hide_border=true" />
 
-</div>
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smriti51818&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 ## Connect With Me
