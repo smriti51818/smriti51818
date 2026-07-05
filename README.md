@@ -14,9 +14,15 @@
 
 ## About Me
 
-I’m a **Computer Science student** who enjoys building **full-stack applications** and experimenting with **AI systems** that solve practical, real-world problems.
+I’m Smriti, a Computer Science student who enjoys building full-stack applications and experimenting with AI systems that solve practical, real-world problems.
 
-I like working across the stack — from **frontend interfaces** and **backend systems** to **databases, APIs, deployment, and AI integrations**. I’m especially interested in building software that is not just technically interesting, but also genuinely useful.
+I like working across the stack — from frontend interfaces and backend systems to databases, APIs, deployment, and AI integrations. I’m especially interested in creating software that is both technically strong and genuinely useful.
+
+## Current Focus
+
+- Building practical AI-powered products with strong user experience
+- Exploring full-stack architecture, APIs, and cloud deployment
+- Turning ideas into polished applications that create measurable impact
 
 ## Tech Stack
 
@@ -95,6 +101,12 @@ CampusPapers is a platform that lets students upload, browse, and discover past-
 - Integrated AI-based authenticity scoring for uploaded academic content
 
 **Stack:** React, Node.js, Express, MongoDB, Cloudinary, Gemini
+
+## Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/smriti51818/smriti51818/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+</p>
 
 ## GitHub Analytics
 
